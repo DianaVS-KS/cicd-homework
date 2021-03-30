@@ -31,7 +31,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Full Resume!
+          Full Resume!!
         </a>
 
       </header>
